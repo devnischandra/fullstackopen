@@ -1,12 +1,47 @@
-# React + Vite
+# Full Stack Open - Part 1: Courseinfo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is the **Courseinfo** application, developed as part of **Part 1: Introduction to React** in the [Full Stack Open](https://fullstackopen.com/en/) course by the University of Helsinki. It uses **Vite** as the development server and build tool for a faster and modern React development experience.
 
-Currently, two official plugins are available:
+## 🚀 Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project introduces key React concepts through a simple application that displays information about a fictional course. It covers:
 
-## Expanding the ESLint configuration
+- Creating basic React functional components (`Header`, `Content`, `Total`)
+- Utilizing JSX syntax to define UI structures
+- Passing data from parent to child components using `props`
+- Rendering dynamic data, including lists (course parts)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✅ Features
+
+- Displays the name of the course
+- Lists all course parts
+- Shows the number of exercises per part
+- Calculates and displays the total number of exercises
+
+## 🛠 Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or newer)
+
+## ⚙️ Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/devnischandra/fullstackopen.git
+cd part1/courseinfo
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## 🙋‍♂️ Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devnischandra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnischandra)
+
+
+
