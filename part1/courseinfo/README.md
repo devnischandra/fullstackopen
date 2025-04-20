@@ -38,7 +38,7 @@ npm install
 npm run dev
 ```
 ## 🖼️ Preview
-<img src="./part0:courseinfo.png" alt="Real Visual Preview" width="60%" />
+<img src="./part1:courseinfo.png" alt="Real Visual Preview" width="60%" />
 
 
 ## 🙋‍♂️ Connect with Me
