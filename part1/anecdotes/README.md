@@ -25,7 +25,7 @@ To run this project locally:
 ```bash
 # Clone the repository
 git clone https://github.com/devnischandra/fullstackopen.git
-cd part1/anecdotes
+cd fullstackopen/part1/anecdotes
 
 # Install dependencies
 npm install
