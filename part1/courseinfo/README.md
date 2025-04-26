@@ -29,7 +29,7 @@ To run this project locally:
 ```bash
 # Clone the repository
 git clone https://github.com/devnischandra/fullstackopen.git
-cd part1/courseinfo
+cd fullstackopen/part1/courseinfo
 
 # Install dependencies
 npm install
