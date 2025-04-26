@@ -15,7 +15,7 @@ To run this project locally:
 ```bash
 # Clone the repository
 git clone https://github.com/devnischandra/fullstackopen.git
-cd part0/
+cd fullstackopen/part0/
 
 ```
 
