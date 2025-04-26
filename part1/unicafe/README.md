@@ -26,7 +26,7 @@ To run this project locally:
 ```bash
 # Clone the repository
 git clone https://github.com/devnischandra/fullstackopen.git
-cd part1/unicafe
+cd fullstackopen/part1/unicafe
 
 # Install dependencies
 npm install
